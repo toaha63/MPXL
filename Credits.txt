@@ -1,0 +1,36 @@
+All credits goes to ->
+
+⁕Programming, Algorithm Design: 
+       1) Hasin Israk (Toaha).
+
+⁕Documentation Writter:
+       1) Fabiha Islam (Deeba).
+       2) Hafsa Akter.
+
+⁕Bug Fixing:
+       1) Akash Mitro (Nill).
+       2) Sifat Hossen.
+       3) Sojib Islam (Akash).
+
+⁕Version Controller:
+       1) Lamia Akter.
+       2) Sarmin Akter.
+
+⁕File Separation:
+       1) Siam Hossen.
+
+⁕Compiler Selection:
+       1) Sahanaj Mim.
+
+⁕Utility Function idea:
+       1)Avijit Dewry.
+
+❀Used Materials:
+       1) Termux.
+       2) Clang.
+       3) Tiny C Compiler.
+       4) MT Manager.
+       5) Memory Card.
+       6) DeepSeek Ai.
+       7) ZArchiver.
+       8) Makefile
