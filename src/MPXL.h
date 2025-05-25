@@ -1,5 +1,5 @@
-#ifndef DUHS_H
-#define DUHS_H
+#ifndef MPXL_H
+#define MPXL_H
 
 #include<stdarg.h>
 #include<stdio.h>
