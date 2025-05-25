@@ -10,7 +10,7 @@ int main(int argc, char** argv)
     // ==============================================
     puts("[1] Arithmetic Operations:");
     BigInt a = MAKE("12345678901234567890");
-    BigInt b = MAKE("9876543210");
+    BigInt b = MAKE("98E9820");
     
     BigInt sum = ADD(&a, &b);
     printf("ADD(a, b) = ");
