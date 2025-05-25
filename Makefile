@@ -4,7 +4,7 @@
 # ==============================================
 
 # Compiler Settings
-CC       = clang
+CC       = gcc
 CFLAGS   = -O3 -Wall -pedantic -fPIC
 AR       = ar
 ARFLAGS  = rcs
