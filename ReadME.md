@@ -1,4 +1,4 @@
-MPXL - Big Integer Library for C
+MPXL (Multiple Precision eXtended Library) - Big Integer Library for C
 
 Introduction:
 A C library for arbitrary-precision integer arithmetic. Handles integers of any size limited only by available memory.
